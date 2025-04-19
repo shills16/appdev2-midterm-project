@@ -1,5 +1,6 @@
 # Midterm Project – CRUD API using Node.js and File System
 
+---
 
 ## 👋 About Me
 
@@ -23,15 +24,19 @@ It's built using:
 
 ## 📚 API Endpoints
 
+
 ![alt text](demo_imgs/API_endpoints.png)
+
+---
 
 ## 🚀 How to Run the Project
 
-1.  **Clone** or **download** the project
 
-2.  Open the **terminal** in the project folder
+### 1.  **Clone** or **download** the project
 
-3. 🟢 **Start the Server** In the terminal:
+### 2.  Open the **terminal** in the project folder
+
+### 3. 🟢 **Start the Server** In the terminal:
 
 ![alt text](demo_imgs/server.png)
 
@@ -39,9 +44,12 @@ It's built using:
 
 ![alt text](demo_imgs/server_running.png)
 
-**Use Thunder Client or Postman**
 
-4. 📄 GET /todos -- **Fetch all todos**
+
+***Use Thunder Client or Postman***
+
+
+### 4. 📄  `GET /todos` -- **Fetch all todos**
 
 ![alt text](demo_imgs/GETtodos.png)
 
@@ -49,7 +57,9 @@ It's built using:
 
 ![alt text](demo_imgs/GETtodos_reponse.png)
 
-5. 🔍 GET /todos/:id -- **Fetch a specific todo**
+
+
+### 5. 🔍 `GET /todos/:id` -- **Fetch a specific todo**
 
 ![alt text](demo_imgs/GETtodos_id.png)
 
@@ -57,7 +67,9 @@ It's built using:
 
 ![alt text](demo_imgs/GETtodos_id_response.png)
 
-6. ➕ POST /todos -- **Create a new todo**
+
+
+### 6. ➕ `POST /todos` -- **Create a new todo**
 
 ![alt text](demo_imgs/POSTtodos.png)
 
@@ -65,7 +77,9 @@ It's built using:
 
 ![alt text](demo_imgs/POSTtodos_reponse.png)
 
-7. ✏️ PUT /todos/:id -- **Update an existing todo**
+
+
+### 7. ✏️ `PUT /todos/:id` -- **Update an existing todo**
 
 ![alt text](demo_imgs/PUTtodos.png)
 
@@ -73,7 +87,9 @@ It's built using:
 
 ![alt text](demo_imgs/PUTtodos_response.png)
 
-8. ❌ DELETE /todos/:id -- **Delete a todo**
+
+
+### 8. ❌ `DELETE /todos/:id` -- **Delete a todo**
 
 ![alt text](demo_imgs/DELETEtodos.png)
 
@@ -81,13 +97,16 @@ It's built using:
 
 ![alt text](demo_imgs/DELETEtodos_response.png)
 
+---
 
-🧾 ## **Logging**
 
-All requests are logged to logs.txt in this format:
+🧾 **#Logging**
+
+All requests are logged to `logs.txt` in this format:
 
 ![alt text](demo_imgs/logging.png)
 
+---
 
 
 **# 📹 Demo Video**
